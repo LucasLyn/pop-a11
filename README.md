@@ -1,7 +1,7 @@
 # PoP - Assignment 11
 PoP - 11g
 
-This assignment was about object oriented programming. In this case, we were tasked with creating an F3 implementation og Ricochet Robots.
+This assignment was about object oriented programming. In this case, we were tasked with creating an F\# implementation og Ricochet Robots.
 
 # PoP - 11g
 
